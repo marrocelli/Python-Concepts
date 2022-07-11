@@ -6,7 +6,7 @@
 # that your return value must be a single expression. This means that you can pass multiple parameters, including optional 
 # parameters to a lambda function (see optional_parameters.py file for more info on these).
 
-# Below you learn about the anatomy of lambda functions, how to use them, and some examples of common use-cases.
+# Below you will learn about the anatomy of lambda functions, how to use them, and some examples of common use-cases.
 
 # -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 # Your code before learning about lambda functions
