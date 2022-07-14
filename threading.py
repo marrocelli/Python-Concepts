@@ -1,8 +1,5 @@
 # Threading
 
-# What is a thread, how do we run threads, what is the difference 
-# between threads and processes, why we need threads?
-
 # A small preface:
 # A CPU is made up of a number of processesing cores (back in the day it used to be just one), 
 # but now computers can have (4, 8, 16, 32+)
